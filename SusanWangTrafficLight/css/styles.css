@@ -1,0 +1,43 @@
+body {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: auto;
+    width: 640px;
+}
+
+.trafficLight {
+    background-color: #424242;
+    width: 200px;
+    height: 600px;
+    border: 5px black solid;
+    border-radius: 40px;
+}
+
+.light {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    border: 5px black solid;
+    border-radius: 77.5px;
+}
+
+.button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:20px;
+}
+
+.message {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+}
